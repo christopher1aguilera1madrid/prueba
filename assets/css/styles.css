@@ -1,0 +1,46 @@
+/*ESTILOS GLOBALES*/
+html {
+    scroll-behavior: auto !important;/*deshabilita el scroll de bootstrap cuando se clickea una opcion del menu*/    
+}
+
+body {
+    background-color: black !important;
+    font-family: "Open Sans" !important;
+}
+
+/*ESTILOS DEL NAVBAR*/
+.navbar {
+    width: 100vw;/*se recupera el ancho de la barra*/
+    z-index: 1;/*siempre se sobrepone sobre otros elementos*/    
+}
+
+.navbar-brand {
+    /*se aplican estilos de tipografia al logo*/
+    font-family: "Oswald" !important;        
+    font-weight: 700;
+}
+
+/*ESTILOS DE QUIENES SOMOS*/
+#quienes-somos {    
+    line-height: 2;
+}
+
+/*ESTILOS DEL PIE DE PAGINA*/
+footer  a:link, a:visited, a:active {
+    text-decoration: none;
+    color: white;
+}
+
+/*ESTILOS PARA LA VENTANA MODAL*/
+.modal {    
+    font-size: 15px;
+}
+
+.modal-header h5 { 
+    font-family: "Oswald";   
+    color: white;
+}
+
+.modal-body ul li {
+    list-style: none;    
+}
