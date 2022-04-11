@@ -1,6 +1,6 @@
 # viajesChile
 Landing Page con diseño responsivo.
-Link: https://csilvajo.github.io/viajesChile/
+Link: https://christopher1aguilera1madrid.github.io/Viajes_Chile/
 
 ## Requisitos
 La página debe contener las siguientes secciones:
@@ -17,7 +17,7 @@ información asociada.
 ## Tecnología utilizada
 ● HTML5
 ● CCS3
-● Bootstrap5
+● Bootstrap
 ● JavaScript
 ● JQuery
 
